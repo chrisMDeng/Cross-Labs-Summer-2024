@@ -1,0 +1,149 @@
+
+2024-07-17 14:23:11.689705
+Train:Parameter setting for TSception
+1)number_class:2
+2)random_seed:42
+3)learning_rate:0.001
+4)num_epochs:200
+5)batch_size:128
+6)dropout:0.3
+7)sampling_rate:256
+8)hidden_node:128
+9)input_shape:(4, 1024)
+10)patient:4
+11)T:9
+12)S:6
+13)Lambda:1e-06
+
+2024-07-17 14:24:30.839134
+Train:Parameter setting for TSception
+1)number_class:2
+2)random_seed:42
+3)learning_rate:0.001
+4)num_epochs:200
+5)batch_size:128
+6)dropout:0.3
+7)sampling_rate:256
+8)hidden_node:128
+9)input_shape:(4, 1024)
+10)patient:4
+11)T:9
+12)S:6
+13)Lambda:1e-06
+
+2024-07-17 14:30:10.810479
+Train:Parameter setting for TSception
+1)number_class:2
+2)random_seed:42
+3)learning_rate:0.001
+4)num_epochs:200
+5)batch_size:128
+6)dropout:0.3
+7)sampling_rate:256
+8)hidden_node:128
+9)input_shape:(4, 1024)
+10)patient:4
+11)T:9
+12)S:6
+13)Lambda:1e-06
+
+2024-07-17 14:30:40.461730
+Train:Parameter setting for TSception
+1)number_class:2
+2)random_seed:42
+3)learning_rate:0.001
+4)num_epochs:200
+5)batch_size:128
+6)dropout:0.3
+7)sampling_rate:256
+8)hidden_node:128
+9)input_shape:(4, 1024)
+10)patient:4
+11)T:9
+12)S:6
+13)Lambda:1e-06
+
+2024-07-17 14:38:28.207847
+Train:Parameter setting for TSception
+1)number_class:2
+2)random_seed:42
+3)learning_rate:0.001
+4)num_epochs:200
+5)batch_size:128
+6)dropout:0.3
+7)sampling_rate:256
+8)hidden_node:128
+9)input_shape:(4, 1024)
+10)patient:4
+11)T:9
+12)S:6
+13)Lambda:1e-06
+
+2024-07-17 14:54:50.930699
+Train:Parameter setting for TSception
+1)number_class:2
+2)random_seed:42
+3)learning_rate:0.001
+4)num_epochs:200
+5)batch_size:128
+6)dropout:0.3
+7)sampling_rate:256
+8)hidden_node:128
+9)input_shape:(4, 1024)
+10)patient:4
+11)T:9
+12)S:6
+13)Lambda:1e-06
+
+2024-07-17 15:05:08.129322
+Train:Parameter setting for TSception
+1)number_class:2
+2)random_seed:42
+3)learning_rate:0.001
+4)num_epochs:200
+5)batch_size:128
+6)dropout:0.3
+7)sampling_rate:256
+8)hidden_node:128
+9)input_shape:(4, 1024)
+10)patient:4
+11)T:9
+12)S:6
+13)Lambda:1e-06
+
+2024-07-17 15:05:45.125120
+Train:Parameter setting for TSception
+1)number_class:2
+2)random_seed:42
+3)learning_rate:0.001
+4)num_epochs:200
+5)batch_size:128
+6)dropout:0.3
+7)sampling_rate:256
+8)hidden_node:128
+9)input_shape:(4, 1024)
+10)patient:4
+11)T:9
+12)S:6
+13)Lambda:1e-06
+
+2024-07-17 15:07:13.138373
+Train:Parameter setting for TSception
+1)number_class:2
+2)random_seed:42
+3)learning_rate:0.001
+4)num_epochs:200
+5)batch_size:128
+6)dropout:0.3
+7)sampling_rate:256
+8)hidden_node:128
+9)input_shape:(4, 1024)
+10)patient:4
+11)T:9
+12)S:6
+13)Lambda:1e-06
+Subject:0 MeanACC:0.9319556451612904 Std:0.08541921785400199
+Subject:1 MeanACC:0.9351758512544803 Std:0.03007805258298316
+
+2024-07-17 15:11:46.668698
+MeanACC:0.9335657482078854 Std:0.0016101030465949795 Mean Val ACC:0.9990234375
